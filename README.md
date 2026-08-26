@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cpplus3-19&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cpplus3-19)](https://github.com/stats-organization/github-stats-extended)
 
 
 
